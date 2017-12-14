@@ -1,0 +1,102 @@
+body {
+
+	font-family: "museo-slab",serif;
+	background: #F4F4F4FF;
+}
+
+h1 {
+	font-family: "museo-slab",serif;
+  	font-weight: 100;
+  }
+
+
+.pageHeader{
+	margin-top: 15px;
+	margin-bottom: 10px;
+/*	border-bottom: 1px solid #5A9;*/
+}
+#textPageHeader{
+	font-size: 50px;
+	margin-top: 20px;
+/*	margin-left: 105px;*/
+	line-height: 40px;
+	color: #333;
+}
+
+#subtextPageHeader{
+	font-size: 20px;
+	margin-left: 165px;
+	font-family: "museo-slab",serif;
+	font-weight: 100;
+}
+
+.card-heading {
+	margin-top: 15px;
+	border: none
+}
+.div-title {
+	margin-bottom: 0px;
+	border-bottom: 1px solid #5A9;
+	margin-top: 15px;
+	font-family: "museo-slab",serif;
+	font-weight: 100;
+}
+
+.card-body {
+	padding-top: 0px;
+}
+#sched-div {
+	margin-top: 15px;
+}
+
+#tableHeader{
+
+	font-family: "museo-slab",serif;
+	font-weight: 100;
+	font-style: none;
+}
+  #train-table {
+  	background: #fFF;
+  	margin-top: 10px; 	      
+  }
+
+  .btn {
+  	background: #4AA;
+  	border: none;
+  	float: right;
+  	font-family: "museo-slab",serif;
+  	font-weight: 100;
+  	letter-spacing: 1px;
+  	color: #FFF;
+}
+  #trainCell {
+  	background: #fff;
+  	border-bottom: 10px solid #F4F4F4FF;
+  	line-height: 10px;
+  	padding-bottom: 0px;
+  }
+
+  #train-form {
+  	background: #DCF1EBFF;
+  	padding: 15px
+  }
+
+.form-group {
+	margin-top: 10px;
+}
+
+#train-input {
+	height: 30px;
+}
+
+#dest-input {
+	height: 30px;
+}
+
+#first-train {
+	height: 30px;
+}
+
+#freq-input {
+	height: 30px;
+}
